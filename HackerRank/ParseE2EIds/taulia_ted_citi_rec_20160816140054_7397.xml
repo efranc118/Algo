@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Document xmlns="urn:iso:std:iso:20022:tech:xsd:camt.053.001.02">
+    <BkToCstmrStmt>
+        <Stmt>
+            <Ntry>
+                <Amt Ccy="EUR">816.95</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>G3WT4EOH</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>G3WT4EOH HIG BUILDING SOLUTIONS BV</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">22062.73</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>XUUD00Y8</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>XUUD00Y8 HUAWEI TECHNOLOGIES (UK) CO., LTD.</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">285767.06</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>AO0NNF5Q</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>AO0NNF5Q ARI SERVICES EUROPE LTD.</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+        </Stmt>
+    </BkToCstmrStmt>
+</Document>

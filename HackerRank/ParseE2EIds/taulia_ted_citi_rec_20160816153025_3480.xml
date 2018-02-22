@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Document xmlns="urn:iso:std:iso:20022:tech:xsd:camt.053.001.02">
+    <BkToCstmrStmt>
+        <Stmt>
+            <Ntry>
+                <Amt Ccy="EUR">6843.03</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>423ZHZUN</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>423ZHZUN HIG BUILDING SOLUTIONS BV</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">1705.85</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>N2JDO8BA</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>N2JDO8BA HIG BUILDING SOLUTIONS BV</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">2345.52</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>WVNIH6HH</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>WVNIH6HH HIG BUILDING SOLUTIONS BV</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">2269.75</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>TQ62V4G2</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>TQ62V4G2 HIG BUILDING SOLUTIONS BV</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">13828.57</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>PQUNQLRH</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>PQUNQLRH HIG BUILDING SOLUTIONS BV</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">1414.54</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>MPE26OHL</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>MPE26OHL HIG BUILDING SOLUTIONS BV</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">15835.65</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>9YG34IH7</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>9YG34IH7 HIG BUILDING SOLUTIONS BV</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">15162.26</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>YATUUFKN</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>YATUUFKN HIG BUILDING SOLUTIONS BV</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">224960.96</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>9QQT4AFX</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>9QQT4AFX HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">12179.23</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>LK8LD86F</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>LK8LD86F HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">25981.75</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>QQJWEITF</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>QQJWEITF HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">11890.47</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>5BS2RAQM</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>5BS2RAQM HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">10499.36</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>PL2ILE9D</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>PL2ILE9D HUAWEI TECHNOLOGIES (UK) CO., LTD.</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">210034.25</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>ZIR97IB0</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>ZIR97IB0 HUAWEI TECHNOLOGIES (UK) CO., LTD.</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">7150.88</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>5SI2TIEC</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>5SI2TIEC HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">5224.09</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>2PFYMX9B</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>2PFYMX9B HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">215285.11</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>89FN84RG</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>89FN84RG HUAWEI TECHNOLOGIES (UK) CO., LTD.</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">8600.67</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>TYLSYTRG</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>TYLSYTRG HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">25981.75</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>X10SOLXO</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>X10SOLXO HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">15752.57</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>9P2QS3NU</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>9P2QS3NU HUAWEI TECHNOLOGIES (UK) CO., LTD.</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">4623.13</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>GGO5KRVF</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>GGO5KRVF HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">57987.85</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>JKIW9RMY</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>JKIW9RMY HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">6920.38</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>X8O0UWUO</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>X8O0UWUO HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">4623.13</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>7XZDN8IV</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>7XZDN8IV HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">8595.12</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>6ZEWQM4U</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>6ZEWQM4U LAPUC WIESLAW</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">7263.54</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>Z8PSKMMX</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>Z8PSKMMX HIG BUILDING SOLUTIONS BV</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">2138.53</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>A3NLOSIZ</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>A3NLOSIZ HIG BUILDING SOLUTIONS BV</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">18691.49</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>I1ZQ3BK3</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>I1ZQ3BK3 HIG BUILDING SOLUTIONS BV</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">110027.34</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>X8XU8XOH</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>X8XU8XOH HIG BUILDING SOLUTIONS BV</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">4567.28</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>8ZBTNLLA</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>8ZBTNLLA HIG BUILDING SOLUTIONS BV</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">32506.46</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>OW53KBB8</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>OW53KBB8 HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">5224.09</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>ESQYEL93</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>ESQYEL93 HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">2011077.97</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>YNB0LOJ6</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>YNB0LOJ6 HUAWEI TECHNOLOGIES (UK) CO., LTD.</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">7036.83</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>JL2KKOVK</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>JL2KKOVK HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">10758.64</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>OEKC2OYG</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>OEKC2OYG HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">25981.75</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>V143ZFQA</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>V143ZFQA HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">14468.82</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>FFBTJE6F</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>FFBTJE6F HUAWEI TECHNOLOGIES (UK) CO., LTD.</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">4623.13</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>E3560TXM</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>E3560TXM HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">36755.99</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>TPZ1I0KN</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>TPZ1I0KN HUAWEI TECHNOLOGIES (UK) CO., LTD.</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">26076.61</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>NSUE1957</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>NSUE1957 HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">199532.54</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>N50UN0VU</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>N50UN0VU HUAWEI TECHNOLOGIES (UK) CO., LTD.</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">76592.64</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>5ANWQWCT</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>5ANWQWCT HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">10558.21</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>B5C3MR3R</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>B5C3MR3R HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">4623.13</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>AURCN0C8</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>AURCN0C8 HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">114689.50</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>UGJI9R2J</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>UGJI9R2J HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">5224.09</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>9IFOY8T7</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>9IFOY8T7 HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="EUR">5224.09</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>4AB52M8H</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>4AB52M8H HUAWEI TECHNOLOGIES DEUTSCHLAND GMB</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+        </Stmt>
+    </BkToCstmrStmt>
+</Document>

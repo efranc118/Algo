@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Document xmlns="urn:iso:std:iso:20022:tech:xsd:camt.053.001.02">
+    <BkToCstmrStmt>
+        <Stmt>
+            <Ntry>
+                <Amt Ccy="USD">2170.44</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>BCTFGUIF</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>BCTFGUIF LES EMBALLAGES KNOWLTON INC.</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">41059.12</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>LZJLR5JR</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>LZJLR5JR NATIONAL PEN AND PLASTIC INDUSTRIES</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">21796.74</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>XKWY7LV7</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>XKWY7LV7 NATIONAL PEN AND PLASTIC INDUSTRIES</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">17912.40</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>UBNZ65BI</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>UBNZ65BI NATIONAL PEN AND PLASTIC INDUSTRIES</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">53887.73</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>HOLOJ0KI</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>HOLOJ0KI ELEC-TECH INTERNATIONAL (HK) CO LTD</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">46447.64</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>E82SEWR8</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>E82SEWR8 ANHUI TECHNOLOGY IMPORT EXPORT CO L</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">15295.61</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>C4UK3J03</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>C4UK3J03 ELEC-TECH INTERNATIONAL (HK) CO LTD</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">53887.73</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>TWKTK48R</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>TWKTK48R ELEC-TECH INTERNATIONAL (HK) CO LTD</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">73624.38</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>ZUJ6OUBB</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>ZUJ6OUBB ELEC-TECH INTERNATIONAL (HK) CO LTD</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">71945.92</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>2V6PDGVI</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>2V6PDGVI ANHUI TECHNOLOGY IMPORT EXPORT CO L</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">68827.78</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>SP4RW6GP</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>SP4RW6GP ANHUI TECHNOLOGY IMPORT EXPORT CO L</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">32471.20</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>V0I9LBIH</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>V0I9LBIH ELEC-TECH INTERNATIONAL (HK) CO LTD</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">65993.74</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>KQIII2MM</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>KQIII2MM LES EMBALLAGES KNOWLTON INC.</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">13074.54</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>GZQBV0SD</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>GZQBV0SD LES EMBALLAGES KNOWLTON INC.</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">33358.32</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>QMFEFE46</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>QMFEFE46 ELEC-TECH INTERNATIONAL (HK) CO LTD</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">23355.98</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>6JRS383R</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>6JRS383R ELEC-TECH INTERNATIONAL (HK) CO LTD</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">54136.83</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>52G82XVW</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>52G82XVW ZHEJIANG AISHIDA ELECTRIC CO LTD</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">65993.74</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>OAM96GA9</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>OAM96GA9 LES EMBALLAGES KNOWLTON INC.</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">65169.97</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>CPOMSMU0</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>CPOMSMU0 LES EMBALLAGES KNOWLTON INC.</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">26227.58</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>0EW089TP</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>0EW089TP NATIONAL PEN AND PLASTIC INDUSTRIES</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">4172.03</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>47DE2XTH</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>47DE2XTH NATIONAL PEN AND PLASTIC INDUSTRIES</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">69360.54</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>XAZ718H3</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>XAZ718H3 ANHUI TECHNOLOGY IMPORT EXPORT CO L</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">25148.55</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>MSWMDWPU</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>MSWMDWPU ELEC-TECH INTERNATIONAL (HK) CO LTD</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">23363.91</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>B0PZH94V</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>B0PZH94V ELEC-TECH INTERNATIONAL (HK) CO LTD</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">15355.93</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>WW02XU5A</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>WW02XU5A ELEC-TECH INTERNATIONAL (HK) CO LTD</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">20022.62</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>FO0K39QU</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>FO0K39QU ELEC-TECH INTERNATIONAL (HK) CO LTD</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">16684.83</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>UKGJMO7W</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>UKGJMO7W ELEC-TECH INTERNATIONAL (HK) CO LTD</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">30944.97</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>BCYZ7G1F</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>BCYZ7G1F ELEC-TECH INTERNATIONAL (HK) CO LTD</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">65479.54</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>UKTBUHMT</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>UKTBUHMT LES EMBALLAGES KNOWLTON INC.</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">58889.04</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>JMP8PZ0J</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>JMP8PZ0J LES EMBALLAGES KNOWLTON INC.</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+            <Ntry>
+                <Amt Ccy="USD">51890.93</Amt>
+                <ValDt>
+                    <Dt>2016-08-19</Dt>
+                </ValDt>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <EndToEndId>G8EBWNWX</EndToEndId>
+                        </Refs>
+                        <RltdPties>
+                            <Cdtr>
+                                <Nm>G8EBWNWX ZHEJIANG AISHIDA ELECTRIC CO LTD</Nm>
+                            </Cdtr>
+                        </RltdPties>
+                    </TxDtls>
+                </NtryDtls>
+                <Sts>BOOK</Sts>
+            </Ntry>
+        </Stmt>
+    </BkToCstmrStmt>
+</Document>

@@ -1,0 +1,56 @@
+{
+  "name": "playground",
+  "private": true,
+  "version": "0.0.0",
+  "description": "a Sails application",
+  "keywords": [],
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "bower": "^1.8.2",
+    "ejs": "2.3.4",
+    "grunt": "1.0.1",
+    "grunt-babel": "^7.0.0",
+    "grunt-contrib-clean": "1.0.0",
+    "grunt-contrib-coffee": "1.0.0",
+    "grunt-contrib-concat": "1.0.1",
+    "grunt-contrib-copy": "1.0.0",
+    "grunt-contrib-cssmin": "1.0.1",
+    "grunt-contrib-jst": "1.0.0",
+    "grunt-contrib-less": "1.3.0",
+    "grunt-contrib-uglify": "1.0.1",
+    "grunt-contrib-watch": "1.0.0",
+    "grunt-sails-linker": "~0.10.1",
+    "grunt-sync": "0.5.2",
+    "grunt-webpack": "^3.0.2",
+    "include-all": "^1.0.0",
+    "rc": "1.0.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "rollbar": "^2.2.8",
+    "sails": "~0.12.13",
+    "sails-disk": "~0.10.9",
+    "sails-hook-babel": "^6.0.3",
+    "webpack": "^3.6.0"
+  },
+  "scripts": {
+    "debug": "node debug app.js",
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/evan.francis/playground.git"
+  },
+  "author": "evan.francis",
+  "license": "",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-airbnb": "^2.4.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
